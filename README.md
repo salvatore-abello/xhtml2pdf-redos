@@ -1,3 +1,6 @@
+# xhtml2pdf ReDOS
+They don't answer my emails, so I decided to publish this exploit
+
 ## How to use
 
 run `python3 gen-exploit.py`
